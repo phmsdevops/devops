@@ -1,3 +1,6 @@
 git init
 git status
 git remote -v
+git status 
+git pull
+git push
